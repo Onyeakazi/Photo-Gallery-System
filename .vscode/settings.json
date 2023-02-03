@@ -1,0 +1,16 @@
+{
+    "emmet.triggerExpansionOnTab":true,
+    "files.associations": {
+        "*html": "html"
+    },
+    "emmet.useInlineCompletions": true,
+    "emmet.excludeLanguages": [
+        "php",
+        "markdown",
+        "hmtl",
+        "css"
+    ],
+    "emmet.showAbbreviationSuggestions":true,
+    "emmet.showSuggestionsAsSnippets": true
+}
+    
